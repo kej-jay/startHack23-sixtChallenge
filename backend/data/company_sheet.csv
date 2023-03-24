@@ -1,0 +1,75 @@
+,name,sector,market,market_code,ticker
+0,Agilent Technologies Inc,Biotechnology,NYSE,65,A
+1,Apple Inc,Computer Hardware And Networking,NASDAQ,67,AAPL
+2,Amazon.com Inc,Retail Trade And Department Stores,NASDAQ,67,AMZN
+3,Advanced Micro Devices Inc,Electronics And Semiconductors,NASDAQ,67,AMD
+4,Barnes Group Inc,Mechanical Engineering And Industrial Equip,NYSE,65,B
+5,Boeing Co,Aeronautic And Astronautic Industry,NYSE,65,BA
+6,Alibaba Group Holding Ltd,Internet Software And IT Services,NYSE,65,BABA
+7,Baidu Inc,Internet Software And IT Services,NASDAQ,67,BIDU
+8,Citigroup Inc,Banks And Other Credit Institutions,NYSE,65,C
+9,Chevron Corporation,Petroleum Oil And Natural Gas,NYSE,65,CVX
+10,Caterpillar Inc,Mechanical Engineering And Industrial Equip,NYSE,65,CAT
+11,Dominion Energy Inc,Energy And Water Supply,NYSE,65,D
+12,ENI S.p.A.,Petroleum Oil And Natural Gas,NYSE,65,E
+13,iShares JP Morgan USD Emerging Markets Bond ETF,Investment Or Pension Funds Trusts,NASDAQ,67,EMB
+14,Ford Motor Co,Vehicles,NYSE,65,F
+15,Meta Platforms Inc,Internet Software And IT Services,NASDAQ,67,META
+16,Freeport-McMoRan Inc,Precious Metals And Precious Stones,NYSE,65,FCX
+17,Fedex Corp,Traffic And Transportation,NYSE,65,FDX
+18,Fiserv Inc,Internet Software And IT Services,NASDAQ,67,FISV
+19,First Solar Inc,Electronics And Semiconductors,NASDAQ,67,FSLR
+20,Genpact Ltd,Financial Investment And Other Diversified Comp,NYSE,65,G
+21,Alphabet Inc,Internet Software And IT Services,NASDAQ,67,GOOGL
+22,Goldman Sachs Group Inc,Banks And Other Credit Institutions,NYSE,65,GS
+23,Gilead Sciences Inc,Biotechnology,NASDAQ,67,GILD
+24,Hyatt Hotels Corp,Lodging And Catering Ind Leisure Facilities,NYSE,65,H
+25,The Home Depot Inc,Retail Trade And Department Stores,NYSE,65,HD
+26,Halliburton Co,Petroleum Oil And Natural Gas,NYSE,65,HAL
+27,Jacobs Solutions Inc,Building Materials And Building Industry,NYSE,65,J
+28,Johnson & Johnson,Pharmaceuticals Cosmetics And Med Products,NYSE,65,JNJ
+29,JPMorgan Chase & Co,Banks And Other Credit Institutions,NYSE,65,JPM
+30,Kellogg Co,Food And Soft Drinks,NYSE,65,K
+31,Coca-Cola Co,Food And Soft Drinks,NYSE,65,KO
+32,KLA Corporation,Electronics And Semiconductors,NASDAQ,67,KLAC
+33,The Kraft Heinz Company,Food And Soft Drinks,NASDAQ,67,KHC
+34,Kroger Co,Retail Trade And Department Stores,NYSE,65,KR
+35,Kimberly-Clark Corp,Forestry Paper And Forest Products,NYSE,65,KMB
+36,KeyCorp,Banks And Other Credit Institutions,NYSE,65,KEY
+37,Loews Corp,Lodging And Catering Ind Leisure Facilities,NYSE,65,L
+38,Eli Lilly & Co,Pharmaceuticals Cosmetics And Med Products,NYSE,65,LLY
+39,Lockheed Martin Corp,Aeronautic And Astronautic Industry,NYSE,65,LMT
+40,Lam Research Corp,Electronics And Semiconductors,NASDAQ,67,LRCX
+41,Lowe's Companies Inc,Retail Trade And Department Stores,NYSE,65,LOW
+42,Macy's Inc,Retail Trade And Department Stores,NYSE,65,M
+43,Microsoft Corp,Internet Software And IT Services,NASDAQ,67,MSFT
+44,NVIDIA Corp,Electronics And Semiconductors,NASDAQ,67,NVDA
+45,Netflix Inc,Internet Software And IT Services,NASDAQ,67,NFLX
+46,Nike Inc,Textiles Garments And Leather Goods,NYSE,65,NKE
+47,Newmont Corporation,Precious Metals And Precious Stones,NYSE,65,NEM
+48,Norfolk Southern Corp,Traffic And Transportation,NYSE,65,NSC
+49,Northrop Grumman Corp,Aeronautic And Astronautic Industry,NYSE,65,NOC
+50,Realty Income Corp,Real Estate,NYSE,65,O
+51,Oracle Corp,Internet Software And IT Services,NYSE,65,ORCL
+52,Occidental Petroleum Corp,Petroleum Oil And Natural Gas,NYSE,65,OXY
+53,O'Reilly Automotive Inc,Financial Investment And Other Diversified Comp,NASDAQ,67,ORLY
+54,Qualcomm Inc,Telecommunication,NASDAQ,67,QCOM
+55,Invesco QQQ Trust Series I,Investment Or Pension Funds Trusts,NASDAQ,67,QQQ
+56,Qorvo Inc,Electronics And Semiconductors,NASDAQ,67,QRVO
+57,Ryder System Inc,Traffic And Transportation,NYSE,65,R
+58,SentinelOne Inc,Internet Software And IT Services,NYSE,65,S
+59,AT&T Inc,Telecommunication,NYSE,65,T
+60,Tesla Inc,Vehicles,NASDAQ,67,TSLA
+61,Unity Software Inc,Internet Software And IT Services,NYSE,65,U
+62,Visa Inc,Miscellaneous Services,NYSE,65,V
+63,Vertex Pharmaceuticals Inc,Biotechnology,NASDAQ,67,VRTX
+64,Valero Energy Corp,Petroleum Oil And Natural Gas,NYSE,65,VLO
+65,VF Corp,Textiles Garments And Leather Goods,NYSE,65,VFC
+66,Wayfair Inc,Miscellaneous Consumer Goods,NYSE,65,W
+67,Walmart Inc,Retail Trade And Department Stores,NYSE,65,WMT
+68,Wells Fargo & Co,Banks And Other Credit Institutions,NYSE,65,WFC
+69,Williams Companies Inc,Energy And Water Supply,NYSE,65,WMB
+70,Walgreens Boots Alliance Inc,Retail Trade And Department Stores,NASDAQ,67,WBA
+71,Workday Inc,Internet Software And IT Services,NASDAQ,67,WDAY
+72,United States Steel Corp,Mining Coal And Steel,NYSE,65,X
+73,Zillow Group Inc,Financial Investment And Other Diversified Comp,NASDAQ,67,Z
